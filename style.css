@@ -1,0 +1,157 @@
+.body{	background-color: black;
+
+}
+
+.line{
+	height: 30px;
+	padding: 0;
+	background-color: #ed1c24;
+	margin-bottom: 0;
+}
+.logo{
+	margin-top:3em;
+	padding: 0;
+	text-align: center;
+}
+.logo img{
+	margin: auto;
+	padding: 1em;
+}
+.first-slide{
+	height: auto;
+}
+
+//@// Small devices (landscape phones, 576px and up)
+@media (min-width: 576pxpx) { 
+.Create img{
+text-align: center;
+margin-left: 4em;
+}
+
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+	#myCarousel{
+		margin-bottom:100px;
+	}
+
+}
+
+p{
+	text-align: center;
+}
+.mui-btn{
+	background-color: #ed1c24;
+	color: white;
+	align-items: center;
+	margin: auto;
+}
+.sandwich h3{
+	font-size: 1.2em;
+	font-family: "open sans";
+	height: auto;
+	padding: .2em;
+	background-color: #ed1c24;
+	margin-bottom: .5em;
+	margin-top: : 2em;
+	color: white;
+	text-align: center;
+}
+.sandwich p{
+	height: auto;
+	padding: 1em;
+	background-color: #333333;
+	margin-top: : 4em;
+	color: white;
+	font-size: 1em;
+	align-items: center;
+	max-width: auto;
+
+
+}
+.sandwich img{
+text-align: center;
+margin: auto;
+padding: 0;
+}
+
+.sandwiches h4{
+	margin-bottom: 1em;
+	padding: .5em;
+}
+.Create h1{
+	height: 1.5em;
+	background-size: cover;
+	margin-bottom: .5em;
+	margin-top: : 2em;
+	color: white;
+	text-align: center;
+
+}
+
+.Create {
+	margin-top: 1.5em;
+	background-color: #ed1c24;
+}
+.Create h4{
+	color: white;
+	margin-top: 1.5em;
+	text-align: center;
+	margin: auto;
+	
+}
+.Create {
+text-align: center;
+padding: 1em;
+border: 1px;
+border-color: white;
+}
+.bold{
+	font-size:1.2em;
+	color: red;
+}
+
+}
+.img img{
+text-align: center;
+margin: auto;
+
+}
+h4{
+	font-size: 1.2em;
+	font-family: "open sans";
+	height: auto;
+	color: #ff0000;
+	text-align: center;
+	margin: 0px;
+}
+.footer p {
+	text-align: center;
+	padding-bottom: 1em;
+	margin: 2em;
+	color:#ff0000;
+}
+.btn-danger {
+    text-align: center;
+}
+.order h1 {
+	font-family: "Noto Sans";
+}
+h2{
+	font-family: "Dancing Script";
+	text-align: center;
+	color: #ff0000;
+	font-size: 4em;
+	height: 1.5em;
+	margin-top: 2em;
+}
+.button{
+	text-align: center;
+	margin: auto;
+}
+.container {
+margin: auto;
+	color: white;
+
+}
