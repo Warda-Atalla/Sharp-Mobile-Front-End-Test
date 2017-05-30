@@ -8,4 +8,4 @@ If you want to take a look for the original design you need to have adobe suite 
 *for the worst case scenario*
 I have send the index.html styleshhet.css by it self in case we need to.
 download index.html file and take all copy and past on your one file.
-creat css folder and take a copy from the sylesheet and save it in side the css folder The image folder should work fine 
+creat css folder and take a copy from the sylesheet and save it in side the css folder The Img folder should work fine 
